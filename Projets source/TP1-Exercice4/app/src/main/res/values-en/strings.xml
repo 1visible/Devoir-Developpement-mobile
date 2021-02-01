@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TP1 - Exercise 4</string>
+    <string name="lastname">Lastname :</string>
+    <string name="firstname">Firstname :</string>
+    <string name="age">Age :</string>
+    <string name="skills_domain">Skills domain :</string>
+    <string name="phone_number">Phone number :</string>
+    <string name="placeholder">Enter text...</string>
+    <string name="validate">Validate</string>
+</resources>
